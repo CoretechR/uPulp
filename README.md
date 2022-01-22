@@ -8,6 +8,6 @@ The code is a mix between these two projects:
  - https://github.com/CoretechR/ESP32-Handheld
 
 
-![](uPulp Demo.jpg)
+![](uPulp_Demo.jpg)
 
 ![](Animation.gif)
