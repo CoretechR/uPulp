@@ -1,0 +1,20 @@
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon.AppSelect.resources
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon.MainWindow.resources
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon.Properties.Resources.resources
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon companion.csproj.GenerateResource.cache
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon companion.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\bin\Debug\keybon companion.exe
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\bin\Debug\keybon companion.pdb
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon companion.csprojAssemblyReference.cache
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon companion.exe
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon companion.pdb
+C:\Users\Maximilian\source\repos\uPulp\obj\Debug\keybon companion.csprojAssemblyReference.cache
+C:\Users\Maximilian\source\repos\uPulp\obj\Debug\keybon.AppSelect.resources
+C:\Users\Maximilian\source\repos\uPulp\obj\Debug\keybon.MainWindow.resources
+C:\Users\Maximilian\source\repos\uPulp\obj\Debug\keybon.Properties.Resources.resources
+C:\Users\Maximilian\source\repos\uPulp\obj\Debug\keybon companion.csproj.GenerateResource.cache
+C:\Users\Maximilian\source\repos\uPulp\obj\Debug\keybon companion.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\source\repos\uPulp\bin\Debug\uPulp.exe
+C:\Users\Maximilian\source\repos\uPulp\bin\Debug\uPulp.pdb
+C:\Users\Maximilian\source\repos\uPulp\obj\Debug\uPulp.exe
+C:\Users\Maximilian\source\repos\uPulp\obj\Debug\uPulp.pdb

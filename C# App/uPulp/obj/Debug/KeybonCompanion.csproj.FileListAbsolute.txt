@@ -1,0 +1,5 @@
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\KeybonCompanion.AppSelect.resources
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\KeybonCompanion.MainWindow.resources
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\KeybonCompanion.Properties.Resources.resources
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\KeybonCompanion.csproj.GenerateResource.cache
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\KeybonCompanion.csproj.CoreCompileInputs.cache

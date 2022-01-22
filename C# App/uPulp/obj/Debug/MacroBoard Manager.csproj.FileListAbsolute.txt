@@ -1,0 +1,10 @@
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\MacroBoard Manager.csproj.GenerateResource.cache
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\MacroBoard Manager.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\bin\Debug\MacroBoardManager.exe
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\bin\Debug\MacroBoardManager.pdb
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\MacroBoardManager.exe
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\MacroBoardManager.pdb
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\MacroBoard Manager.csprojAssemblyReference.cache
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon.AppSelect.resources
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon.MainWindow.resources
+C:\Users\Maximilian\source\repos\WindowsFormsApp1\obj\Debug\keybon.Properties.Resources.resources
